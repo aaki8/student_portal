@@ -52,3 +52,4 @@ o	Set proper permissions for uploads (if adding file upload feature)
 o	Open http://localhost/student-portal/index.php in your browser
 o	Register a new account or login with existing credentials
 
+
